@@ -1,4 +1,4 @@
-// I still don't understand how prototypes are "object instances" / not types
+// How are prototypes "object instances" / not types
 // it's a bloody function. look at it
 
 // Declaring a Proto prototype (object?)
